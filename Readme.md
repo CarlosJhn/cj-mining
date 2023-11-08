@@ -15,7 +15,7 @@ There are 3 dependencies needed to make sure the script runs smoothly:
 ### Resmon
 Start up: ~0.1/ms
 
-In use: ~0.01/ms
+In use: ~0.1/ms
 
 Idle: 0.00/ms
 
