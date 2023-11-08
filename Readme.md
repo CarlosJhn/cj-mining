@@ -1,5 +1,4 @@
 Simple Mining Job For QB-CORE 
-Author : CarlosJhn#0
 Used for ox_inventory
 
 required for cj-mining
