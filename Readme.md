@@ -8,7 +8,7 @@ There are 3 dependencies needed to make sure the script runs smoothly:
 - [ox-inventory](https://github.com/overextended/ox_inventory/)
 - [ox-target](https://github.com/overextended/ox_target)
 
-optional :
+### optional :
 - [qb-lock](https://github.com/Nathan-FiveM/qb-lock)
 - [k5_notify](https://github.com/kac5a/k5_notify)
 
