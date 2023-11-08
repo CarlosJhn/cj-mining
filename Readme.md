@@ -20,8 +20,8 @@ In use: ~0.01/ms
 Idle: 0.00/ms
 
 ### Installation
-Drag and drop the images into ox_inventory: [ox_inventory\web\images]
-Copy and paste the items into ox_inventory: [ox_inventory\data\items.lua]
+- Drag and drop the images into ox_inventory: [ox_inventory\web\images]
+- Copy and paste the items into ox_inventory: [ox_inventory\data\items.lua]
 
 ### Item
 register items in ox_inventory/data/item
