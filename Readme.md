@@ -8,7 +8,7 @@ required for cj-mining
 
 register items in ox_inventory/data/item
 
-![image](https://github.com/CarlosJhn/cj-mining/assets/149292807/89ead3ac-3370-4b01-9470-38a332715550) Resmon 0.0ms 
+![image](https://github.com/CarlosJhn/cj-mining/assets/149292807/89ead3ac-3370-4b01-9470-38a332715550) 
 
 
 ```lua
