@@ -1,12 +1,22 @@
-Simple Mining Job For QB-CORE 
+# Simple Mining Job For QB-CORE 
 Used for ox_inventory
 
-required for cj-mining
-- qb-lock
-- ox-inventory
-- ox-target
+What do I need?
+There are 3 dependencies needed to make sure the script runs smoothly:
 
-![image](https://github.com/CarlosJhn/cj-mining/assets/149292807/89ead3ac-3370-4b01-9470-38a332715550) 
+- [ox-lib](https://github.com/overextended/ox_lib/releases/)
+- [ox-inventory](https://github.com/overextended/ox_inventory/)
+- [ox-target](https://github.com/overextended/ox_target)
+
+optional :
+- [qb-lock](https://github.com/Nathan-FiveM/qb-lock)
+- [k5_notify](https://github.com/kac5a/k5_notify)
+
+Start up: ~0.1/ms
+
+In use: ~0.01/ms
+
+Idle: 0.00/ms
 
 register items in ox_inventory/data/item
 
