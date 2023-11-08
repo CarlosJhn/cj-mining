@@ -6,7 +6,7 @@ required for cj-mining
 - ox-inventory
 - ox-target
 
-register items in oxinventory/data/item
+register items in ox_inventory/data/item
 
 ```lua
 ['batu'] = {
